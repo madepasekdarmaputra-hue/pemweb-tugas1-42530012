@@ -82,3 +82,6 @@ portfolio/
 ├── project1.jpg
 ├── project2.jpg
 └── README.md
+
+## live preview
+ https://madepasekdarmaputra-hue.github.io/pemweb-tugas1-42530012/
